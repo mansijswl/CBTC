@@ -1,5 +1,5 @@
 <h4>How to run 'Banky' project.</h4>
-<h5>Path:-  src/bank/Login.java</h5>
+<h5>Path:-  src/bank/System/Login.java</h5>
 <ol>
   <li>First Run Login.java file</li>  
   <li>Since you are new user You have to Sign Up in order to get your 'login id' and 'password'</li>
@@ -12,7 +12,7 @@
 <br><br>
 
 <h4>How to run 'Guess the Number' project.</h4>
-<h5>Path:- src/guess/Start.java</h5>
+<h5>Path:- src/guessTask/Start.java</h5>
 <ol>
   <li>First Run Start.java file</li>  
   <li>Now you have your game interface asking to play or exit</li>
